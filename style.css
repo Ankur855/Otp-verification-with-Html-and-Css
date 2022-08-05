@@ -1,0 +1,30 @@
+body {
+    background-image: -moz-linear-gradient(blue,pink);
+
+
+  }
+  
+  .bgWhite{
+    background-image: -moz-linear-gradient(blue,pink);
+    box-shadow:0px 3px 6px 0px #ffffff;
+  }
+  
+  .title{
+    font-weight:600;
+    margin-top:20px;
+    font-size:24px
+  }
+  
+  .customBtn{
+    border-radius:2px;
+    padding:10px;
+    box-shadow: 0px 2px 5px 1px rgb(0, 26, 63) ;
+  }
+  
+  form input{
+    display:inline-block;
+    width:50px;
+    height:50px;
+    text-align:center;
+    box-shadow: 0px 3px 6px 0px rgb(63, 1, 1);
+  }
